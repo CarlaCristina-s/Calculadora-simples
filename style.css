@@ -1,0 +1,21 @@
+.container {
+  display: block;
+  margin: 60 auto;
+  width: fit-content;
+  /* box-shadow: 5px 8px 5px 5px #bdbbbb; */
+}
+
+form * {
+  max-width: 300px;
+}
+
+/* fieldset {
+  border: none;
+} */
+
+button {
+  border: none;
+  height: 30px;
+  width: 120px;
+  border-radius: 4px;
+}
